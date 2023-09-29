@@ -173,7 +173,7 @@ If you open the `html/index.html` file in your browser, you will see
 something similar to this:
 ![](Images/Screenshot_20230928_235627.png)
 
-And by navigatin to the menu `Files > File List > hello.h`, you will see
+And by navigating to the menu `Files > File List > hello.h`, you will see
 the documentation of the `hello.h` file:
 
 ![](Images/Screenshot_20230928_235317.png)
