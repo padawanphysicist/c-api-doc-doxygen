@@ -175,6 +175,7 @@ something similar to this:
 
 And by navigatin to the menu `Files > File List > hello.h`, you will see
 the documentation of the `hello.h` file:
+
 ![](Images/Screenshot_20230928_235317.png)
 
 # Improving the appearance of the documentation
