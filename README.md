@@ -12,7 +12,7 @@ tool. An example of a project that uses the Doxygen for documentation is
 
 Doxygen generates documentation from the code, annotated by blocks of comment
 with [special markup](https://www.doxygen.nl/manual/docblocks.html#specialblock),
-and can generate output in HTML and LaTeX.[]{#doxygen-how}
+and can generate output in HTML and LaTeX.
 
 Here we will create a simple project in C to exemplify the production of
 documentation with Doxygen. The project will be called `hello`, and
@@ -104,7 +104,7 @@ and for
 
 # Creating the documentation
 
-As I [said previously](#doxygen-how), Doxygen uses special annotations in the
+As I said previously, Doxygen uses special annotations in the
 code to generate documentation. For our project, we can rewrite the header file
 `hello.h` this way:
 
